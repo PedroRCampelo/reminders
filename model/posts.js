@@ -1,7 +1,7 @@
 module.exports = {
   
  posts: [
-    {id: 'adads', title: 'teste do mural', description: 'post description'},
+    
   ],
 
   getAll(){
